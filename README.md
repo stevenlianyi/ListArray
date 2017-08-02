@@ -1,1 +1,1 @@
-# ListArray
+# ListArraya C++ queue class, provide push, pop, lpush, rpush, lpop, lpop function.
